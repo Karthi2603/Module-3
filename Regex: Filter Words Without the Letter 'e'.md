@@ -15,6 +15,11 @@ To write a Python program that filters out and returns all elements from a list 
 
 ## 🧾 Program
 Add code here
+items=[153,147,124,102]
+print(sum(items))
 ## Output
+<img width="953" height="193" alt="image" src="https://github.com/user-attachments/assets/b9662462-884e-4891-beeb-c46da2f0bf06" />
 
 ## Result
+Thus the program executed successfully.
+
